@@ -14,4 +14,4 @@ Create preparedness actions
 View current monitoring data
 Manage locations and actions through CRUD operations
 Author
-Kamil Bakar
+Kamil Bakar 
