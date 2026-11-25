@@ -2,12 +2,14 @@
 frontend/node_modules/
 frontend/dist/
 frontend/.env
+dist/
 
 # Backend
 backend/vendor/
 backend/.env
 backend/.DS_Store
 backend/*.log
+backend/config/config.local.php
 
 # System files
 .DS_Store
